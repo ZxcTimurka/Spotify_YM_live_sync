@@ -1,0 +1,4 @@
+yandex-music>=2.2.0
+spotipy>=2.25.1
+schedule>=1.2.2
+python-dotenv>=1.0.1
