@@ -1,4 +1,5 @@
-yandex-music>=2.2.0
-spotipy>=2.25.1
-schedule>=1.2.2
-python-dotenv>=1.0.1
+schedule
+yandex-music
+spotipy>=2.19.0
+python-dotenv
+pyTelegramBotAPI
